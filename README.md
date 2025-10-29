@@ -1,1 +1,1 @@
-# FAQfy-it
+# FAQ
